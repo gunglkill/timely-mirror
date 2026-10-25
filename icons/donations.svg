@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="48 48 928 928">
+<title>Донаты разработчику</title>
+<rect width="1024" height="1024" fill="#090909"/>
+<circle cx="512" cy="512" r="498" fill="#faf9f6"/>
+<defs><clipPath id="round"><circle cx="512" cy="512" r="498"/></clipPath></defs>
+<g clip-path="url(#round)">
+<!-- cat silhouette -->
+<path fill="#141414" d="M74 797 205 405 238 206 Q243 181 261 191 L365 331 537 331 660 197 Q679 177 686 206 L720 551 705 930 128 1042Z"/>
+<!-- relaxed eyes -->
+<path fill="#faf9f6" d="M288 520 H432 A72 72 0 0 1 288 520Z"/>
+<path fill="#faf9f6" d="M506 520 H650 A72 72 0 0 1 506 520Z"/>
+<!-- donation coin, overlapping the cat -->
+<circle cx="666" cy="755" r="191" fill="#faf9f6"/>
+<circle cx="666" cy="755" r="160" fill="#141414"/>
+<circle cx="666" cy="755" r="133" fill="none" stroke="#faf9f6" stroke-width="11"/>
+<path fill="#faf9f6" d="M666 847 C632 821 582 785 582 735 C582 700 609 678 640 678 C656 678 666 686 678 702 C690 686 701 678 717 678 C748 678 771 700 771 735 C771 782 710 819 666 847Z"/>
+<!-- tiny sparkle -->
+<path fill="#141414" d="M856 380 Q868 427 907 438 Q867 450 856 493 Q843 452 806 438 Q846 427 856 380Z"/>
+</g>
+</svg>
